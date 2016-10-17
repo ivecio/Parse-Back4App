@@ -1,0 +1,7 @@
+#Mon Oct 17 18:35:21 BRST 2016
+base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\Parse-Projeto-1.13.0 - Back4App\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fff7be72d257dc79d7c2e9ebd105436b60bedf15
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Usuario\\AndroidStudioProjects\\Parse-Projeto-1.13.0 - Back4App\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bf37022848ce8bcaafccd163c1bef885f9d7826f\\classes.dex
+base.1=C\:\\Users\\Usuario\\AndroidStudioProjects\\Parse-Projeto-1.13.0 - Back4App\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bf37022848ce8bcaafccd163c1bef885f9d7826f
+file.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\Parse-Projeto-1.13.0 - Back4App\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fff7be72d257dc79d7c2e9ebd105436b60bedf15\\classes.dex

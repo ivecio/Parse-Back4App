@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_b118010e37da563680ff4434a85c4e01f6a24190\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="affa0d24335489b932b1258d3fa08545b1b700fa">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fff7be72d257dc79d7c2e9ebd105436b60bedf15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_e391699c2c4df8d35161c54e1c39976bc986aa4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce33e5c8de03d01f3c6d669cf16c6cc6da5c752e">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf37022848ce8bcaafccd163c1bef885f9d7826f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_fab59b6dae96fb7d049cad70c6a0b4ec9933fdf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_7410642df7838f25af771d7d62148450bd159082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_d817bb117a6b101ab9da2d9fa88f86e23f7662c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Parse-Projeto-1.13.0 - Back4App\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_c6d744ca0b05e58d8eed1859577ba49eab3872a7\classes.dex" />
+    </item>
+
+</items>
